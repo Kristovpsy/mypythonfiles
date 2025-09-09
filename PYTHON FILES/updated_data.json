@@ -1,0 +1,13 @@
+{
+    "name": "salami",
+    "age": "18",
+    "Dob": "17/08/98",
+    "weight": "64kg",
+    "skils": [
+        "python",
+        "machine learning",
+        "web dev"
+    ],
+    "active": true,
+    "status": "processed"
+}
